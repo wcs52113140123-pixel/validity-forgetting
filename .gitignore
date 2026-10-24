@@ -1,0 +1,21 @@
+# Caches and large regenerable artefacts — see README step 1.
+features/
+data/
+models/
+*.npz
+*.pth
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Editors / OS
+.ipynb_checkpoints/
+.DS_Store
+
+# Word lock files and the intermediate template copy
+~$*
+_tpl.docx

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this software or its results, please cite the paper.
+title: "Validity forgetting: continual learners keep their accuracy but lose their uncertainty guarantees"
+abstract: >-
+  Measurement code, continual-learning baselines and full result records for a study
+  of conformal validity under class-incremental learning.
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+    affiliation: "[Affiliation]"
+license: MIT
+doi: 10.5281/zenodo.23612859
+repository-code: "https://github.com/wcs52113140123-pixel/validity-forgetting"
+keywords:
+  - continual learning
+  - conformal prediction
+  - uncertainty quantification
+  - class-incremental learning

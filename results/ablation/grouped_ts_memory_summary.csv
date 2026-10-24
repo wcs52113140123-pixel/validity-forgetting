@@ -1,0 +1,9 @@
+,gap_mean,gap_median,gap_max,acc,size
+global/A_current,0.1427,0.0885,0.5334,0.7297,4.3809
+global/B_pooled,0.0155,0.014,0.0327,0.7297,6.98
+global/C_rbcc,0.0155,0.0166,0.0285,0.7297,7.579
+group_oracle/A_current,0.0417,0.0244,0.1101,0.747,5.1428
+group_oracle/B_pooled,0.0149,0.0102,0.0356,0.747,6.2659
+group_replayed/A_current,0.0787,0.0324,0.3121,0.7456,5.3494
+group_reserved/A_current,0.0343,0.0263,0.0929,0.7511,5.2703
+group_reserved/C_rbcc,0.0136,0.0132,0.024,0.7511,6.8379

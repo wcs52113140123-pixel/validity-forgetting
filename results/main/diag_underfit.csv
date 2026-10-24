@@ -1,0 +1,7 @@
+数据集,骨干,探针,SeqFT,差距
+cifar100,vit_b16_in21k,0.976,0.967,0.009
+cifar100,dinov2_base,0.988,0.988,0.0
+cub200,vit_b16_in21k,0.983,0.983,0.0
+cub200,dinov2_base,0.9915,0.9915,0.0
+imagenet_r,vit_b16_in21k,0.7621,0.7472,0.0149
+imagenet_r,dinov2_base,0.9424,0.9405,0.0019

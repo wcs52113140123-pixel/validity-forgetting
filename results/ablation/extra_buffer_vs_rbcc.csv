@@ -1,0 +1,17 @@
+dataset,backbone,method,ACC_rbcc,CovGap_rbcc,FinalCov_rbcc,ACC_xbuf,CovGap_xbuf,FinalCov_xbuf
+cifar100,dinov2_base,Replay,0.8233,0.0204,0.8986,0.836,0.0167,0.9036
+cifar100,dinov2_base,iCaRL,0.8608,0.0054,0.9059,0.8615,0.0073,0.9024
+cifar100,vit_b16_in21k,Replay,0.7897,0.0285,0.8815,0.7928,0.0313,0.8781
+cifar100,vit_b16_in21k,iCaRL,0.8125,0.0208,0.8821,0.8136,0.0179,0.8853
+cub200,dinov2_base,Replay,0.878,0.018,0.894,0.8826,0.0161,0.8946
+cub200,dinov2_base,iCaRL,0.8605,0.0126,0.899,0.862,0.0125,0.8991
+cub200,vit_b16_in21k,Replay,0.714,0.0196,0.9003,0.7161,0.0201,0.8996
+cub200,vit_b16_in21k,iCaRL,0.803,0.0086,0.9026,0.8063,0.0073,0.905
+imagenet_r,dinov2_base,Replay,0.7522,0.0206,0.8968,0.7689,0.018,0.8978
+imagenet_r,dinov2_base,iCaRL,0.7523,0.0077,0.8994,0.754,0.0064,0.9017
+imagenet_r,vit_b16_in21k,Replay,0.4507,0.0093,0.914,0.4544,0.0097,0.9114
+imagenet_r,vit_b16_in21k,iCaRL,0.4669,0.0039,0.9076,0.4711,0.003,0.9092
+medmix26,dinov2_base,Replay,0.7305,0.0201,0.9311,0.76,0.0226,0.9252
+medmix26,dinov2_base,iCaRL,0.6896,0.0135,0.9202,0.6926,0.0114,0.9245
+medmix26,vit_b16_in21k,Replay,0.6489,0.0232,0.9153,0.6599,0.0291,0.9105
+medmix26,vit_b16_in21k,iCaRL,0.6428,0.0151,0.9077,0.6449,0.0164,0.908

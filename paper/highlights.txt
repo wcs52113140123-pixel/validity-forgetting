@@ -1,0 +1,5 @@
+Continual learners keep accuracy but lose coverage: 0.90 promised, 0.62 measured
+Failure is invisible: just-learned tasks still meet the nominal level
+Ranking degradation drives it; scale drift adds nothing once ranking is fixed
+A replay memory is already per-class, so it buys class-conditional validity free
+One threshold degrades under mixture shift as forgetting grows; per-class does not
